@@ -4,6 +4,8 @@ Python Developer 🌟
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.com/)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RiskyCod&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RiskyCod&theme=dark&hide_border=true)<br/>
